@@ -52,4 +52,5 @@ class BookInStock
   def price_as_string
     format('$%.2f', @price)
   end
+  #end
 end
